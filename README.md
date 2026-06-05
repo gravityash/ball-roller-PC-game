@@ -29,7 +29,7 @@ Then navigate to the project folder.
 2. Locate the game executable file:
 
 ```text
-BallRollerGame.exe
+My project.exe
 ```
 
 3. Double-click the executable file to launch the game.
